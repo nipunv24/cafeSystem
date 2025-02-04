@@ -1,0 +1,24 @@
+Transaction Collection
+
+{
+  "_id": "679e50a1da52f4f894f605c1",
+  "date": "2025-02-04T14:30:00Z",
+  "cashier": "John Doe",
+  "items": [
+    {
+      "category": "Fruit Juice",
+      "name": "Apple Juice",
+      "price": 200,
+      "quantity": 2,
+      "subtotal": 400
+    },
+    {
+      "category": "Fruit Juice",
+      "name": "Mango Juice",
+      "price": 200,
+      "quantity": 1,
+      "subtotal": 200
+    }
+  ],
+  "totalAmount": 600
+}
